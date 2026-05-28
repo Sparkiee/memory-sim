@@ -1,4 +1,4 @@
-# Hard Drive Simulator
+# Memory Simulator
 **Author:** Maxim Shteingard  
 
 ---

@@ -41,9 +41,9 @@ Showcases the hard drive's textual representation and the list of present files.
 ## Compilation & Execution
 To compile and run the simulator:
 
-\```bash
+```bash
 g++ -g hdd-memory-sim.cpp -o a.out
 ./a.out
-\```
+```
 
 ---
